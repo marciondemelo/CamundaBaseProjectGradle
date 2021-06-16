@@ -1,0 +1,8 @@
+spring.datasource.driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+spring.datasource.url: jdbc:sqlserver://NOTEL340;databaseName=CAMUNDA
+spring.datasource.username: sa
+spring.datasource.password: sa
+
+camunda.bpm.admin-user:
+  id: demo
+  password: demo
